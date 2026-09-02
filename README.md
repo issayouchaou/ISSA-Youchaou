@@ -16,6 +16,7 @@ Systèmes d'Information Géographique (SIG) : QGIS (analyse spatiale et gestion 
 Domaines d'intervention : Biostatistique, épidémiologie, analyses multivariées, géostatistique et modélisation prédictive
 
 DOMAINES DE RECHERCHE ET TRAVAUX
+
 Les projets présentés dans ce portfolio s'articulent autour des axes suivants :
 Biostatistique et Épidémiologie : Développement de scripts pour l'analyse de cohortes, la gestion des données manquantes et l'évaluation de modèles statistiques.
 
