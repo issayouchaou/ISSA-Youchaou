@@ -1,5 +1,8 @@
 # ISSA-Youchaou
-Portfolio Data Scientist
+
+
+Étudiant en Master de Biostatistique | Analyse de données, Modélisation et Environnement
+Cotonou, Bénin
 
 PRÉSENTATION
 
@@ -36,9 +39,7 @@ CONTACT
 Je suis à disposition pour échanger sur des projets de collaboration, des stages ou des opportunités professionnelles dans les domaines de la science des données, de la biostatistique et de la recherche appliquée.
 
 
-ISSA Youchaou
-Étudiant en Master de Biostatistique | Analyse de données, Modélisation et Environnement
-Cotonou, Bénin
+
 
 E-mail : issayouchaou6@gmail.com | Téléphone : +229 0198039352/0154192183
 
